@@ -1,4 +1,4 @@
-# shape4you
+# Shape4you
 
 Shape4You je web aplikacija za planiranje, praćenje i personalizaciju treninga, izrađena u sklopu kolegija Programsko inženjerstvo.
 
@@ -11,7 +11,7 @@ Shape4You je web aplikacija za planiranje, praćenje i personalizaciju treninga,
 Projekt je razvijen zajedničkim radom oba člana tima. Iako su dijelovi projekta navedeni kao zaduženja pojedinog člana, većina projekta napravljena je zajednički.
 
 
-#Fakultet i kolegij
+# Fakultet i kolegij
 
 Fakultet informatike u Puli 
 https://fipu.unipu.hr/
@@ -23,7 +23,7 @@ Mentor: doc. dr. sc. Nikola Tanković
 http://ntankovic.unipu.hr/
 
 
-#O aplikaciji
+# O aplikaciji
 
 Shape4You je web aplikacija namijenjena korisnicima koji žele jednostavno organizirati i pratiti svoje treninge.
 
