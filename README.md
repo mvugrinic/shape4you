@@ -60,8 +60,6 @@ https://www.figma.com/community/file/1672203686384647949
 
 ## Matija Vugriniček
 
-Primarno zadužen za programiranje i funkcionalnosti aplikacije:
-
 -izrada i organizacija Vue projekta
 -prijava, registracija i onboarding
 -povezivanje aplikacije s Firebaseom
@@ -74,8 +72,6 @@ Primarno zadužen za programiranje i funkcionalnosti aplikacije:
 
 
 ## Mihej Milić Kutlača
-
-Primarno zadužen za dizajn i izgled aplikacije:
 
 -izrada dizajna u Figmi
 -izrada Figma prototipa
