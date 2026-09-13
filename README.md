@@ -60,25 +60,21 @@ https://www.figma.com/community/file/1672203686384647949
 
 ## Matija Vugriniček
 
--izrada i organizacija Vue projekta
--prijava, registracija i onboarding
+-prijava, registracija
+-login i registracija
 -povezivanje aplikacije s Firebaseom
+-dashboard
 -izrada i uređivanje treninga
--izrada Progress Trackera i BMI izračuna
--bodovi, streakovi i dnevni izazovi
--izrada leaderboarda
--povezivanje Figma dizajna s aplikacijom
--testiranje i popravljanje grešaka
+-izrada Progress Trackera
 
 
 ## Mihej Milić Kutlača
 
--izrada dizajna u Figmi
 -izrada Figma prototipa
--dizajn glavnih stranica aplikacije
--dizajn gumba, kartica i ostalih komponenti
--odabir boja i izgleda aplikacije
--pomoć pri povezivanju dizajna s aplikacijom
--testiranje i dorada aplikacije
+-izrada forgotpassword.vue
+-izrada onboardina
+-izrada leaderboarda
+-bodovi, streakovi i dnevni izazovi
+-testiranje aplikacije
 
 # Napomena: Većinu projekta radili smo zajedno, pa su navedena zaduženja područja na kojima je svaki član imao veći fokus.
